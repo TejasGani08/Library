@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-openai
-faiss-cpu
-numpy
-requests
-beautifulsoup4
